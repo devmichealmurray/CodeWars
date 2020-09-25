@@ -3,6 +3,7 @@ package _8kyu
 import kotlin.math.exp
 
 /**
+ * Completed
  * Task
  * Given three integers a ,b ,c, return the largest number obtained after inserting the following operators and
  * brackets: +, *, ()
